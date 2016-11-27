@@ -2,12 +2,13 @@
 
 <h3>Require</h3>
 <ul>
-<li>SQL Server - according to default config require SQL Server Express(connection string could be change in SocketApplication/SocketApplication/App.config)</li>
-<li>Execute attached sql script(initial_database)</li>
+<li>SQL Server - according to default config require SQL Server Express(connection string could be changed in SocketApplication/SocketApplication/App.config)</li>
+<li>Execute attached SQL script(initial_database) to initialize database</li>
+<li>.NET Framework 4.5.2</li>
 </ul>
 
 <h3>Instruction</h3>
 <ol>
-<li>Start server => SocketApplication/SocketApplication/bin/Debug/SocketApplication.exe</li>
-<li>Start client => SocketApplication/SocketClient/bin/Debug/SocketClient.exe</li>
+<li>Start Server(Server's main method => SocketApplication/SocketApplication/SocketServer.cs)</li>
+<li>Start Client(Client's main method => SocketApplication/SocketClient/MainWindow.xaml.cs)</li>
 </ol>
