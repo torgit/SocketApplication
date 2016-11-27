@@ -7,3 +7,4 @@ C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Mode
 C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\obj\Debug\Model.dll
 C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\obj\Debug\Model.pdb
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
