@@ -1,0 +1,17 @@
+﻿<Window x:Class="SocketClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SocketClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label_username" Content="Username" HorizontalAlignment="Left" Height="50" Margin="84,45,0,0" VerticalAlignment="Top" Width="92"/>
+        <Label x:Name="label_password" Content="Password" HorizontalAlignment="Left" Height="50" Margin="84,115,0,0" VerticalAlignment="Top" Width="92"/>
+        <TextBox x:Name="usernameBox" HorizontalAlignment="Left" Height="50" Margin="176,45,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="225"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Height="50" Margin="176,115,0,0" VerticalAlignment="Top" Width="225"/>
+        <Button x:Name="submit" Content="Login" HorizontalAlignment="Left" Margin="202,201,0,0" VerticalAlignment="Top" Width="118" Height="42" Click="submit_Click"/>
+
+    </Grid>
+</Window>

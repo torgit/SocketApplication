@@ -1,0 +1,9 @@
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Utility\bin\Debug\Utility.dll.config
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Utility\bin\Debug\Utility.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Utility\bin\Debug\Utility.pdb
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Utility\bin\Debug\EntityFramework.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Utility\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Utility\bin\Debug\EntityFramework.xml
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Utility\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Utility\obj\Debug\Utility.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Utility\obj\Debug\Utility.pdb

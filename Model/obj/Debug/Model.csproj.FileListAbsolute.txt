@@ -1,0 +1,9 @@
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\bin\Debug\Model.dll.config
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\bin\Debug\Model.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\bin\Debug\Model.pdb
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\bin\Debug\EntityFramework.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\bin\Debug\EntityFramework.xml
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\obj\Debug\Model.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\Model\obj\Debug\Model.pdb

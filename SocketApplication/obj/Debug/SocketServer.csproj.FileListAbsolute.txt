@@ -1,0 +1,14 @@
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\SocketApplication.exe.config
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\SocketApplication.exe
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\SocketApplication.pdb
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\EntityFramework.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\Model.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\Utility.dll
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\Model.pdb
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\Utility.pdb
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\EntityFramework.xml
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\obj\Debug\SocketApplication.exe
+C:\Users\Suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\obj\Debug\SocketApplication.pdb

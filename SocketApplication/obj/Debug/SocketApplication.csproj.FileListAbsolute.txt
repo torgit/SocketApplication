@@ -1,0 +1,1 @@
+c:\users\suphaphong\documents\visual studio 2015\Projects\SocketApplication\SocketApplication\bin\Debug\SocketApplication.exe.config
